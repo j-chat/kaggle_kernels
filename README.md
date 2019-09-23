@@ -1,7 +1,7 @@
 # kaggle_kernels
 A list of my kernels on Kaggle
 
-* 
+* [User Detection Attempt by using Webpage Sessions](https://www.kaggle.com/jaydragon/user-detection-attempt-by-using-web-page-sessions)
 * 
 
 ## Resources
