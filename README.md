@@ -11,6 +11,9 @@ A list of my kernels on Kaggle
 * [Data Types and Missing Values](https://www.kaggle.com/jaydragon/exercise-data-types-and-missing-values)
 * [Renaming and Combining](https://www.kaggle.com/jaydragon/exercise-renaming-and-combining)
 
+## Geospatial Analysis Micro-course
+* [Exercise: Your First Map](https://www.kaggle.com/jaydragon/exercise-your-first-map)
+
 ## Resources
 [Kaggle Kernels Guide for Beginners — Step by Step Tutorial](https://towardsdatascience.com/kaggle-kernels-for-beginners-a-step-by-step-guide-3db6b1cd7606)
 
